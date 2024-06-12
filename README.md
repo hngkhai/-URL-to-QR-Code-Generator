@@ -16,6 +16,7 @@ ScanEasy is a simple Node.js application that allows users to input a URL, conve
 ## Prerequisites
 
 • Node.js installed on your machine
+
 • npm (Node Package Manager) installed
 # ScanEasy
 
