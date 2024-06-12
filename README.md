@@ -4,7 +4,7 @@
 
 ## Desciption
 
-ScanEasy is a simple Node.js application that allows users to input a URL, convert it into a QR code, and save the QR code image. This project utilizes the inquirer package for user input, the qr-image package to generate QR codes, and the native fs module to handle file operations.
+ScanEasy is a simple Node.js application that allows users to input a URL, convert it into a QR code, and save the QR code image. This project utilizes the inquirer package for user input and the qr-image package to generate QR codes.
 ## Features
 
 • Prompt user for a URL using the inquirer package
